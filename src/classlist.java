@@ -20,7 +20,6 @@ public class classlist {
 		classList.put("Anish", "B");
 		classList.put("Niha", "D");
 		classList.put("Sashi", "F");
-		
 	}
 	
 	public void printClassList() {
