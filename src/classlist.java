@@ -1,4 +1,4 @@
-//My first Activity 1 ,Slide 5(Course 2 Lecture)
+//Activity 1 - SE
 //Mownica -Z1888767
 
 import java.util.HashMap;
